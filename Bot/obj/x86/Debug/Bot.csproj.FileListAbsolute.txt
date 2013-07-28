@@ -1,0 +1,71 @@
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Documents\Visual Studio 2010\Projects\Bot\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Desktop\June1\OpenTK\Testing\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\obj\x86\Debug\Bot.exe
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\obj\x86\Debug\Bot.pdb
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\Bot.exe
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\Bot.pdb
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\OpenTK.dll
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\bin\Debug\OpenTK.xml
+Z:\admin On My Mac\Dropbox\Research\5_Code\0_July\OpenTK\Testing\Bot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_July\OpenTK\StickBotV0.0\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\bin\Debug\naoqi-dotnet4.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.0\Bot\bin\Debug\naoqi-dotnet4.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\bin\Debug\naoqi-dotnet4.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\bin\Debug\naoqi-dotnet4.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.1\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\bin\Debug\naoqi-dotnet4.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\bin\Debug\naoqi-dotnet4.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV0.2\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\obj\x86\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\obj\x86\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\bin\Debug\Bot.exe
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\bin\Debug\Bot.pdb
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\bin\Debug\naoqi-dotnet4.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\bin\Debug\OpenTK.dll
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\bin\Debug\naoqi-dotnet4.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\bin\Debug\OpenTK.xml
+C:\Users\igezehei\Dropbox\Research\5_Code\0_Auguest\StickBotV1.0\Bot\obj\x86\Debug\Bot.csprojResolveAssemblyReference.cache
